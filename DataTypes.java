@@ -31,4 +31,8 @@ public class DataTypes {
         String text = "Hello, World!";
         System.out.println("String value: " + text);
     }
+
+    public static void main(String[] args) {
+        showDataTypes();
+    }
 }
